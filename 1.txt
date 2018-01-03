@@ -1,0 +1,6 @@
+echo¡°££second¡±>> README.md 
+git init 
+git add README.md 
+git commit -m¡°secon¡± 
+git remote add origin https://github.com/YYece/second.git
+ git push -u origin master
