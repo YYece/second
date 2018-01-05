@@ -1,0 +1,100 @@
+
+.LOG
+
+花褪红残青杏小。
+燕子飞时，绿水人家绕。
+枝上柳绵吹又少，
+天涯何处无芳草。
+
+墙里秋千墙外道。
+墙外行人，墙里佳人笑。
+笑渐不闻声渐悄，
+多情总被无情恼。
+
+
+
+http://www.tcscodevita.com/CodevitaV6/register.jsp
+
+
+Github
+名字：603656645@qq.com
+密码：jyy1998
+
+
+《控场》
+《计算机科学概论》
+
+
+mysql
+账号：root
+密码：root
+
+ubuntu
+密码：1234
+
+Codevita编程大赛
+账号：603656645@qq.com
+密码：Jyy@1998
+
+1.创建main.cc文件
+2.输入命令gcc -c .\mian.cc，生成main.o文件
+3.输入命令g++ -o demo .\main.o,生成可执行文件demo.exe
+4.输入命令.\demo，编译
+14:14 2017/12/5
+
+
+
+23:45 2017/12/5
+C:\Program Files\Java\jdk-9.0.1\
+
+23:46 2017/12/5
+
+0:03 2017/12/6
+
+0:17 2017/12/6
+
+14:46 2017/12/6
+
+16:17 2017/12/6
+
+Windows密码：
+
+
+
+输入update user set password=password('root')
+ where user='root' and host='localhost';
+
+
+在中国文化中，黄色是一种非常重要的颜色，因为它具有特殊的象征意义。
+在封建社会，它展示了皇帝的权力和权威。
+当时，黄色是皇帝的颜色。皇宫完全被漆成黄色，
+皇帝的衣服也都是黄色的，但是普通老百姓是不允许穿黄色衣服的。
+在中国，黄色也意味着丰收。秋天庄稼成熟时，田野变得一片金黄。人们高兴地庆祝丰收。
+
+
+
+
+
+In Chinese culture, yellow is a very important color because of its special symbolic meaning. In feudal society, it shows the emperors’ power and authority. At that time, yellow was the color for the emperor. The royal palace was entirely painted yellow and the emperor’s clothes were always yellow too, but common people were not permitted to wear yellow clothes. In China, yellow also means harvest. When crops ripe in autumn, fields turn entirely golden. People celebrates the good harvest happily.
+
+
+
+Y2RiZjl3Yz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
