@@ -1,0 +1,8 @@
+$ git clone https://github.com/YYece/second.git
+Cloning into 'second'...
+remote: Counting objects: 15, done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 15 (delta 2), reused 15 (delta 2), pack-reused 0
+Unpacking objects: 100% (15/15), done.
+
+Asus@DESKTOP-G1U4CHO MINGW64 ~/Desktop/555
